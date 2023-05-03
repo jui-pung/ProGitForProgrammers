@@ -22,5 +22,10 @@ namespace ProGitForProgrammers
         {
             return left * right;
         }
+
+        public int Divide (int left, int right)
+        {
+            return left / right;
+        }
     }
 }
