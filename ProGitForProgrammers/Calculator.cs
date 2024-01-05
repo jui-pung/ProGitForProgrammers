@@ -8,11 +8,13 @@ namespace ProGitForProgrammers
 {
     public class Calculator
     {
+        // 加法
         public int Add(int left, int right)
         {
             return left + right;
         }
 
+        // 減法
         public int Subtract (int left, int right)
         {
             return right - left;
