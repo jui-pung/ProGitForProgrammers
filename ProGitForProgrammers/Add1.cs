@@ -9,5 +9,6 @@ namespace ProGitForProgrammers
     internal class Add1
     {
         // 新增一個介面
+        // 加了一行註解
     }
 }
